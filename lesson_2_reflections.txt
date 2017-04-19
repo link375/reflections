@@ -22,3 +22,12 @@ You're able to see exactly where you are located when you're making changes to f
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Merging branches together combines the commits into one branch sorted by timestamps. Because it's easy to understand or something
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+automatic merges save you time by comparing 2 files quicly rather than having to double check all the lines one by one
+
+
+
+
