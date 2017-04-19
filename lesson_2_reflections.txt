@@ -19,4 +19,6 @@ How do the diagrams help you visualize the branch structure?
 
 You're able to see exactly where you are located when you're making changes to files or commiting with git
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
+Merging branches together combines the commits into one branch sorted by timestamps. Because it's easy to understand or something
