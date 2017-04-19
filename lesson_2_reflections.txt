@@ -1,0 +1,12 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+You install git and ask it to keep track of changes made to files in a directory. You need to do it if you want Git to keep track of changes and help you out.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is where you add files prior to being commited. The working directory and repository is the folder that has ALL of the files we're working with. 
+Staging changes allows us to commit only certain files and exclude others if we don't want to commit them.
+
+
+
+
