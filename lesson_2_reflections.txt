@@ -7,6 +7,16 @@ How is the staging area different from the working directory and the repository?
 The staging area is where you add files prior to being commited. The working directory and repository is the folder that has ALL of the files we're working with. 
 Staging changes allows us to commit only certain files and exclude others if we don't want to commit them.
 
+How can you use the staging area to make sure you have one commit per logical change?
 
+You can use git diff --staged to make sure you only have one change made prior to commiting. This command will compare your staging area to the latest commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+You can make experimental changes or add new features and test them out before merging them with the master branch
+
+How do the diagrams help you visualize the branch structure?
+
+You're able to see exactly where you are located when you're making changes to files or commiting with git
 
 
