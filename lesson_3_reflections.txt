@@ -12,7 +12,9 @@ Fork: Lets you copy a repository and it's commits to your github account which y
 Clone: 1 to 1 copies of a repository including commits
 Branches: Different features that hava been added to the code but should not be on the master branch
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
 
+So you can push it back up if it's been deleted or been tampered with
 
 
 
