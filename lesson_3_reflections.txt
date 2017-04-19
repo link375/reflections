@@ -1,1 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
 
+When you want to keep files safe or when you're working remotely or want to backup your data in case of loss
