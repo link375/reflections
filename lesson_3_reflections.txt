@@ -21,5 +21,10 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 You could use google drive or dropbox to automatically update files when they're changed. Using Gdrive or dropbox would take longer and may be more complicted than github after you're used to it.
 
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When you want to collaborate with other people and want them to look at your code first so they can merge it with their master branch. Using a different branch lets you stay more organized and 
+will allow you to work more efficiently while maintaining the composure of your own master branch.
+
 
 
