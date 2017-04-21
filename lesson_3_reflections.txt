@@ -16,6 +16,10 @@ What is the benefit of having a copy of the last known state of the remote store
 
 So you can push it back up if it's been deleted or been tampered with
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+You could use google drive or dropbox to automatically update files when they're changed. Using Gdrive or dropbox would take longer and may be more complicted than github after you're used to it.
+
 
 
 
